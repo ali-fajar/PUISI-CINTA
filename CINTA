@@ -558,21 +558,25 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/gelTF-PQ0-SuVdbS-HRVKxUChXE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4473765/765276.jpg", AFC INDIA VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png", BEIN SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://i.ibb.co.com/3FhLthP/mlive5.png",M LIVE 5 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="" tvg-logo="https://i.ibb.co.com/xSQQ81r/mlive6.png",M LIVE 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+#https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
 
 #EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6d/Logo_Bayon_Television.png", BAYON TV
@@ -582,14 +586,15 @@ https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.m
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTibIv_FXebJNcNTRtQo44GkvRdRbfUAJPiN4ZmgMj-dkAJst2MhaxhyOs&s=10" group-title="TIMNAS", THAILAND VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=aff&type=m3u8
 
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SYgPM3GeaT9G2HwcmzqqndhYc5IunH2OYjRvyKlB_J4Bkmp5y78jrqc&s=10" group-title="TIMNAS", VIETNAM VS KAMBOJA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=aff1&type=m3u8
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://thumbor.prod.vidiocdn.com/MOTTmRfD9EL6kjJxvEApe4UJ3Ek=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540896/5e8cd1.jpg" group-title="TIMNAS", TIMNAS U23 VS MACAU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -602,7 +607,7 @@ https://twnx1-cf.boblcfwudz421.com/auth%3D2c4dca04a3dc225d8daa742989ef6a621c06a0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
 #EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
 
 
 #EXTINF:-1 tvg-id="tvkita" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbiHLXzjtaRwyyXFUQc_fdW9eXDAEY4GjRBpaLcuRoHYhBoXFj6ha8tZSy&s=10" group-title="TIMNAS", TIMNAS U23 VS LAOS
