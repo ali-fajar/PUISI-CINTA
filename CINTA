@@ -5027,6 +5027,7 @@ https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/forsat23/pro.php?id=61
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/49727.ts
 
 #EXTINF:-1 tvg-id="beIN Sports HDTV (English)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd7Gor-cwCiKEDxQBSJYjR9wFuQD8ic2ugdDwCEG2dfgWdP2jeCkxmxzM&s=10" group-title="SPORTS" , BEIN SPORTS XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
@@ -5088,17 +5089,20 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="SPORTS", CANAL+ SPORT 1 HD
 #EXTVLCOPT:http-referrer=http://azers.online/
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
+#http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155540&extension=ts&play_token=RgTd5r3rbc
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/256121.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="SPORTS", CANAL+
 #EXTVLCOPT:http-referrer=http://azers.online/
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155559&extension=ts&play_token=2Qb1nvRrnH
+#http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=1155559&extension=ts&play_token=2Qb1nvRrnH
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/12885.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT PL" tvg-logo="https://lo1.in/pol/cs.png" group-title="SPORTS", CANAL PL
 #EXTVLCOPT:http-referrer=http://azers.online/
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=115874&extension=ts&play_token=50Vkn2h0fY
+#http://azers.online/play/live.php?mac=00:1A:79:46:E7:E4&stream=115874&extension=ts&play_token=50Vkn2h0fY
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/115874.ts
 
 #EXTINF:-1 tvg-id="DAZN 1 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="SPORTS" , DAZN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
@@ -5435,42 +5439,50 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k3gmp81628519750.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MATCH RUSIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/event/135.m3u8
+#https://laaaaaaaal.dupereasy.com/event/135.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30858.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cz682u1628519810.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MATCH FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/event/138.m3u8
+#https://laaaaaaaal.dupereasy.com/event/138.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30861.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/am4ot71628519853.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MATCH FOOTBALL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/event/137.m3u8
+#https://laaaaaaaal.dupereasy.com/event/137.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30860.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/69eju21628519874.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MATCH FOOTBALL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/event/136.m3u8
+#https://laaaaaaaal.dupereasy.com/event/136.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30859.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/event/472.m3u8
+#https://laaaaaaaal.dupereasy.com/event/472.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31801.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/event/473.m3u8
+#https://laaaaaaaal.dupereasy.com/event/473.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31802.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/event/474.m3u8
+#https://laaaaaaaal.dupereasy.com/event/474.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31803.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/event/475.m3u8
+#https://laaaaaaaal.dupereasy.com/event/475.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31804.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/owa6og1571337802.png" group-title="SPORTS", NBA TV
