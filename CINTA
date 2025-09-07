@@ -4567,33 +4567,33 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
-https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+#https://damp-mouse-75ea.pejan97800.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 
 #EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/v79xr71604073804.png", SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 
 #EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png", BEIN SPORT 1 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bein1ar&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=bein1ar&type=m3u8
 
 
 #EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png", BEIN SPORT 2 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=bein2ar&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=bein2ar&type=m3u8
 
 #EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png", BEIN SPORT 3 AR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas2&type=m3u8
 
 #EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png", DIEMA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas3&type=m3u8
 
 
 #EXTINF:-1 group-title="World Cup 26™ Qualifiers" tvg-id="UEFA" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/efa11r1627492687.png", ESPN 1 NL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=espn1nl&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=espn1nl&type=m3u8
 
 #EXTINF:-1 tvg-id="Sukan RTM" group-title="World Cup 26™ Qualifiers" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
