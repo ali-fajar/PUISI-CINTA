@@ -6042,18 +6042,20 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS",Star Sports Select 2 HD
-http://watchindia.net:8880/live/32612/55103/1071.ts
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276735.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xkekt61643389138.png" group-title="SPORTS",Star Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://watchindia.net:8880/live/36830/23757/2232.ts
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276730.ts
+
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr9HMb6hcR25CGmQrlcxQiSzHP8rCnT7j6CcOvymBGq1biOYvr9dp8cMo&s=10" group-title="SPORTS",Star Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://watchindia.net:8880/live/36830/23757/2456.ts
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276732.ts
+
 
 
 
@@ -6136,8 +6138,8 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
 
 #EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSleQJSzgd5zyZKYpguioPIR2xoeWNhLko9GQ&s" group-title="SPORTS", TELEMUNDO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
