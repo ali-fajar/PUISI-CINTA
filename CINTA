@@ -611,14 +611,14 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=u23&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
 
 
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://thumbor.prod.vidiocdn.com/MOTTmRfD9EL6kjJxvEApe4UJ3Ek=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4540896/5e8cd1.jpg" group-title="TIMNAS", INDONESIA U23 VS MACAU
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://thumbor.prod.vidiocdn.com/gFdHCiI2PjHIdU5OYvUu__9s2A0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4542920/8b0325.jpg" group-title="TIMNAS", INDONESIA U23 VS KOREA 
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; Build/QT)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5875004298ea8ee992b3ff4b96350117:3776f802fe24b82ca68fbe0b7445b80c
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19486/file/drm/dash/19486_stream.mpd?hdnts=exp=1756914798~acl=/stream/19486/file/*~id=49257797~hmac=d448ee4676598064b46bfb856cf15e4372795851289a69790575c3a203b43b58
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19486/file/drm/dash/19486_stream.mpd?hdntl=exp=1757432064~acl=%2fstream%2f19486%2ffile%2f*~id=49257797~data=hdntl~hmac=cb6ad6c002d90ab46ba6e2f45f8711b2ba4f4e345800858ded6118a466b4c73f
 
 
 =====================================BADMINTON=================================================================
