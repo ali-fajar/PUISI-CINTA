@@ -618,7 +618,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=u17&type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5875004298ea8ee992b3ff4b96350117:3776f802fe24b82ca68fbe0b7445b80c
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19486/file/drm/dash/19486_stream.mpd?hdntl=exp=1757432064~acl=%2fstream%2f19486%2ffile%2f*~id=49257797~data=hdntl~hmac=cb6ad6c002d90ab46ba6e2f45f8711b2ba4f4e345800858ded6118a466b4c73f
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19486/file/drm/dash/19486_stream.mpd?hdnts=exp=1757433015~acl=/stream/19486/file/*~id=49257797~hmac=e14521b4749e35dceb38313eb7cee5628957732ebda5897367c4f2e3637ab300
 
 
 =====================================BADMINTON=================================================================
