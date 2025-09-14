@@ -4324,20 +4324,20 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ita1&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=ita2&type=m3u8
 
 =====================================LIGA PRANCIS==========================================================
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/utquqs1472570910.png" group-title="LIGA PRANCIS", FR 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgBwsAnUCfta5twKImzgvNSx0GeTwBxj8Co36CcQIEY5IVNLNJ7a2R6Cf&s=10" group-title="LIGA PRANCIS", FR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium464
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fr1&type=m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="LIGA PRANCIS", FR 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSgBwsAnUCfta5twKImzgvNSx0GeTwBxj8Co36CcQIEY5IVNLNJ7a2R6Cf&s=10" group-title="LIGA PRANCIS", FR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium494
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=fr2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png" group-title="LIGA PRANCIS", FR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
-https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium92
+#https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium92
 
 ====================================LIGA BELANDA==============================================================
 
