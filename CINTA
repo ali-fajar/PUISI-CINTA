@@ -4098,16 +4098,18 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/9
 
 
 
-#EXTINF:-1 tvg-id="Premier Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOi-pHdwS2j6Kru1DMRMYaDatmDuar1mMLJw&s" group-title="UCL", UCL 6
+#EXTINF:-1 tvg-id="Premier Sports 1" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/236/2025/07/08/Screenshot_2025-07-08-21-24-38-591_comandroidchrome-edit-2771144855.jpg" group-title="UCL", UCL 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
+https://v4-a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4947178.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b2c6fada637e8c9d8b8d5abc05663e48
 
 
-#EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png" group-title="UCL", UCL 7
+#EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/236/2025/07/08/Screenshot_2025-07-08-21-24-38-591_comandroidchrome-edit-2771144855.jpg" group-title="UCL", UCL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://topembed.pw/
-https://bintangstreaming.my.id/connect/index.m3u8?channel=forsatpro475&type=m3u8
+https://v4-a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4947134.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9dddbaaf5ac694c39a5805f2ee480297
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lzqo991689746090.png" group-title="UCL", UCL 8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
@@ -4118,7 +4120,10 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=forsatpro475&type=m3u8
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 
-
+#EXTINF:-1 tvg-id="Max Sport 4" tvg-logo="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/236/2025/07/08/Screenshot_2025-07-08-21-24-38-591_comandroidchrome-edit-2771144855.jpg" group-title="UCL", UCL 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://topembed.pw/
+https://v4-78db6781fe37bdefc00c3c6eecf7706a.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-4947101.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8d2dd7c85a45e7f3061fc587f914dc2f
 
 
 
