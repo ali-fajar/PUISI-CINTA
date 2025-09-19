@@ -5035,27 +5035,15 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5exn7j1631279352.png",BEIN SPORTS 1 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f959dcdd1ca8c89658cd651ed36e2851:aa4cf56ce7c522a9e6582c42537be381
-https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/pwdvd9fm5u/out/v1/5e22845dab3648b8a7033fd5923d62d1/cenc.mpd
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/197176
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/x7ynw61631279400.png",BEIN SPORTS 2 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9afd72f20573001c23672d2158892a5f:9bc32df48a2efac30072b7e5c683bcd1
-https://a36aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/6fbnr3ei4b/out/v1/57d2ae96a4cc4230881cd801b389edf6/cenc.mpd
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/288372
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwzxmq1631279374.png",BEIN SPORTS 3 AU
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/288373
 
 #EXTINF:-1 tvg-id="bein 1 eng" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/q0tj5n1631279235.png" group-title="SPORTS" , BEIN 1 ENG
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6049,23 +6037,27 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276737.ts
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SPORTS",SONY SPORTS TEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276738.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS",SONY SPORTS TEN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276739.ts
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 4 HD
-https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1080194
 
 #EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",SONY TEN 5 HD
-https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1080193
 
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://i.ibb.co.com/p24tp0P/unifisports.png" group-title="SPORTS", UNIFI SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
