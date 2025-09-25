@@ -2069,19 +2069,19 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live08.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/2560px-NPO_1_logo_2014.svg.png" group-title="WORLD TV", NPO 1 
-https://fl5.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.m3u8
+https://fl7.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png" group-title="WORLD TV", NPO 2
-https://fl5.moveonjoy.com/SMITHSONIAN_CHANNEL/tracks-v1a1/mono.m3u8
+https://fl7.moveonjoy.com/SMITHSONIAN_CHANNEL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/1200px-NPO_3_logo_2018.svg.png" group-title="WORLD TV", NPO 3 
-https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
+https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RTL_4_logo_2005.svg/1200px-RTL_4_logo_2005.svg.png" group-title="WORLD TV", RTL 4 
-https://fl5.moveonjoy.com/STARZ_ENCORE_ACTION/tracks-v1a1/mono.m3u8
+https://fl7.moveonjoy.com/STARZ_ENCORE_ACTION/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntZs7tMx8-Lg9OTNmuY0lVjZcRFnEOjxSytRoxE_kPqRWgXQAWMZwMW0&s=10" group-title="WORLD TV" tvg-name="San Marino RTV", RTV SAN MARINO SPORT
@@ -2181,7 +2181,7 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/chunklist_w877293702.m3
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="PPTV HD.th" tvg-logo="https://iili.io/JyHFkhJ.png", PPTV 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 
 
@@ -2231,7 +2231,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="MONO.th"  tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/0016.png",MONO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://appdootv2.dootvde.com:1935/live/50021_mono_tv.stream.smil/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
 
 #EXTINF:-1 group-title="WORLD TV" tvg-id="MCOT HD.th" tvg-logo="https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/logo/MCOT_new.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
