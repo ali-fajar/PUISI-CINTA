@@ -565,14 +565,14 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 #http://garudamadridista.mooo.com:108/astorenakmy/dash-wv/linear/5057/default_ott.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", INDONESIA VS THAILAND
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="TIMNAS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", ARAB SAUDI VS INDONESIA
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://thumbor.prod.vidiocdn.com/FCu5I2dpyay5CXffcr3ZnvczP54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg", TIMNAS VS LEBANON
+#EXTINF:-1 group-title="TIMNAS" tvg-id="UEFA" tvg-logo="https://cdns.klimg.com/mav-prod-resized/0x0/ori/image_bank/2024/09/02/055135.511-jadwal-siaran-langsung-arab-saudi-vs-timnas-indonesia-di-kualifikasi-piala-dunia-2026-1.jpg", TIMNAS VS SAUDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
@@ -607,7 +607,7 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=timnas1&type=m3u8
 #https://bintangstreaming.my.id/connect/index.m3u8?channel=aff&type=m3u8
 
 
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://thumbor.prod.vidiocdn.com/FCu5I2dpyay5CXffcr3ZnvczP54=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4543775/d692b7.jpg" group-title="TIMNAS", INDONESIA VS LEBANON
+#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://cdns.klimg.com/mav-prod-resized/0x0/ori/image_bank/2024/09/02/055135.511-jadwal-siaran-langsung-arab-saudi-vs-timnas-indonesia-di-kualifikasi-piala-dunia-2026-1.jpg" group-title="TIMNAS", INDONESIA VS ARAB SAUDI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
