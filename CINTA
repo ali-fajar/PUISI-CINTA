@@ -972,9 +972,8 @@ https://flv.intechmedia.net/live/ch23.m3u8?chcat=FTA&md5=JE5Sl4yOTSCKi6RXxU0AZQ&
 
 
 #EXTINF:-1 tvg-name="MUSLIM TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="RELIGI",MUSLIM TV (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=137
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=137
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 
 #EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="RELIGI", MAKKAH LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
