@@ -385,11 +385,11 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2025/02/FIFA-U-20-World-Cup-2025-Logo-New.png" group-title="LIVE EVENTS", FIFA U20 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=_DVm0z3So5w
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=ZPisC-pqUnU
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2025/02/FIFA-U-20-World-Cup-2025-Logo-New.png" group-title="LIVE EVENTS", FIFA U20 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=QLQDt_Z6GaY
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=oam3RGzYHx8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 1 
@@ -1040,10 +1040,10 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/1000/manifest.mpd
 
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",001. Alfatihah (Pembukaan)
-https://archive.org/download/MurotalMR/001.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",002. Al-Baqarah (Lembu Betina)
-https://archive.org/download/MurotalMR/002.mp3
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10", JUZZ 1
+http://j.mp/2b8SiNO
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10", JUZZ 2
+http://j.mp/2b8RJmQ
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",003. Ali 'Imran (Keluarga Imran)
 https://archive.org/download/MurotalMR/003.mp3
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",004. An-Nisaa' (Wanita)
