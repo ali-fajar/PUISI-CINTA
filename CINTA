@@ -976,40 +976,35 @@ https://flv.intechmedia.net/live/ch23.m3u8?chcat=FTA&md5=JE5Sl4yOTSCKi6RXxU0AZQ&
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000021/1024.m3u8
 
 #EXTINF:-1 tvg-id="Al Quran Al Kareem - [Channel 93].id" tvg-name="" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="RELIGI", MAKKAH LIVE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5321d2a153ab463dba1c60b9068165c6:6c8194b07b1f2d114feb594d2ae6ee51
-https://quraan-enc.edgenextcdn.net/out/v1/c83937d3ef504ec49b5acd0cf7339f29/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://flv.intechmedia.net/live/ch14.m3u8
 
 
 #EXTINF:-1 tvg-name="TV9" tvg-logo="https://www.visionplus.id/images/repository/601/601-LOGO-m.png" group-title="RELIGI",TV9 Nusantara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w1786944431.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.dens.tv/images/channel-logo/21.jpg" tvg-id="21" , RodjaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RodjaTV
+https://rodjatv.com/rodjatv/live_240p528kbs/index.m3u8
 
 
 #EXTINF:-1 tvg-name="TAWAF TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_105.png" group-title="RELIGI",TAWAF TV (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=29
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
 
 
 #EXTINF:-1 tvg-name="MUHAMMADIYAH TV" tvg-logo="https://www.visionplus.id/images/repository/603/603-LOGO-m.png" group-title="RELIGI",MUHAMMADIYAH TV (V+)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=30
-https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000024/1024.m3u8
 
 #EXTINF:-1 tvg-name="MEKKAH TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504956_tvchannels_v1.jpg" group-title="RELIGI",MEKKAH TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Winhttps://flv.intechmedia.net/live/ch14.m3u8dows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#https://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
 
 #EXTINF:-1 tvg-name="MADINAH TV" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687504962_tvchannels_v1.jpg" group-title="RELIGI",MADINAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservesd-1.dens.tv/s/s27/02.m3u8
+https://flv.intechmedia.net/live/ch13.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/alwafa.png" group-title="RELIGI",Al Wafa Tarim TV
@@ -1019,7 +1014,7 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 #EXTINF:-1 tvg-name="NU CHANEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-pBEwneZhbGFXrLVNbxMDppv_4RcoKE4AF-cPD9nXPw&s" group-title="RELIGI",NU CHANEL
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710755278/ei/brn3ZYbpKduJjuMP6surqA0/ip/103.105.35.92/id/VUFUsfFLdOs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-uigxxi0ujipnvo-ngbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9fxr-q205C_559Nam5qntLyBmBakAQNZxIetfboCbqyfPaxYK7OUIxEkTDsc/vprv/1/playlist_type/DVR/initcwndbps/462500/mh/WW/mm/44/mn/sn-uigxxi0ujipnvo-ngbe/ms/lva/mv/m/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/beids/24350321/mt/1710733005/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRQIgTfd_Yh_XZ549N6WcJlf0C70l4UkyXju9G1RiAshWq78CIQCmflPGdtIikIqM5lg_COsRovsYI-rJIafNzhD-M2kWAw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgPad4MgpMiI-dYfxhL-fT3u9Hx1tuVo8S3sUMjCmFht4CIQCYpCNDm_Wx-eZzXDVr0awX5824rkHI-Ki90qPjq6m7Ig%3D%3D/playlist/index.m3u8
+#https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1710755278/ei/brn3ZYbpKduJjuMP6surqA0/ip/103.105.35.92/id/VUFUsfFLdOs.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-uigxxi0ujipnvo-ngbe.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/siu/1/spc/UWF9fxr-q205C_559Nam5qntLyBmBakAQNZxIetfboCbqyfPaxYK7OUIxEkTDsc/vprv/1/playlist_type/DVR/initcwndbps/462500/mh/WW/mm/44/mn/sn-uigxxi0ujipnvo-ngbe/ms/lva/mv/m/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/beids/24350321/mt/1710733005/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,siu,spc,vprv,playlist_type/sig/AJfQdSswRQIgTfd_Yh_XZ549N6WcJlf0C70l4UkyXju9G1RiAshWq78CIQCmflPGdtIikIqM5lg_COsRovsYI-rJIafNzhD-M2kWAw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALClDIEwRQIgPad4MgpMiI-dYfxhL-fT3u9Hx1tuVo8S3sUMjCmFht4CIQCYpCNDm_Wx-eZzXDVr0awX5824rkHI-Ki90qPjq6m7Ig%3D%3D/playlist/index.m3u8
 
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1030,16 +1025,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDxksxeyqDJPxy98kVpcOqD8QpUYFUcIH6WB-10WzhvjtglxxbHetXVDI&s=10",NABAWI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be3fbd2f58d7/86556e8bfa3d423e97038d36c040e6fd.png" group-title="RELIGI",Khazanah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/1000/manifest.mpd
