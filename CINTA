@@ -4892,10 +4892,12 @@ https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zj1pap1731234597.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1163654&extension=.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5wx2p81731236425.png" group-title="SPORTS" tvg-id="001" tvg-name="",  ASTRO ARENA 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163655.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1163655&extension=.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/necgva1731235994.png" group-title="SPORTS" tvg-id="001" tvg-name="",  ASTRO FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -4998,7 +5000,8 @@ https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/forsat23/pro.php?id=434
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227256.ts
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227256.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=227256&extension=.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="SPORTS", ARENA SPORT PREMIUM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5264,7 +5267,8 @@ https://fl1.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/forsat23/pro.php?id=45
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/11204.ts
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/11204.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=11204&extension=.m3u8
 
 #EXTINF:-1 tvg-id="ESPN AR" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qzobqn1660760939.png" group-title="SPORTS", ESPN 1 AR
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -5307,13 +5311,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium455
-https://bintangstreaming.my.id/forsat23/pro.php?id=455
+#https://bintangstreaming.my.id/forsat23/pro.php?id=455
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/olj2cb1657045831.png", DAZN PT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium456
-https://bintangstreaming.my.id/forsat23/pro.php?id=456
+#https://bintangstreaming.my.id/forsat23/pro.php?id=456
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mixmagazine.in.th/img/content/00006926_20211222140221_Sport.jpg", 3BB SPORTS 1
@@ -5503,19 +5507,22 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://laaaaaaaal.dupereasy.com/event/135.m3u8
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30858.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30858.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=30858&extension=.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/cz682u1628519810.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MATCH FOOTBALL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://laaaaaaaal.dupereasy.com/event/138.m3u8
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30861.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30861.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=30861&extension=.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/am4ot71628519853.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MATCH FOOTBALL 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://laaaaaaaal.dupereasy.com/event/137.m3u8
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30860.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/30860.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=30860&extension=.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/69eju21628519874.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MATCH FOOTBALL 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5528,13 +5535,15 @@ https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://laaaaaaaal.dupereasy.com/event/472.m3u8
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31801.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31801.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=31801&extension=.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://laaaaaaaal.dupereasy.com/event/473.m3u8
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31802.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31802.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=31802&extension=.m3u8
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5546,7 +5555,8 @@ https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://laaaaaaaal.dupereasy.com/event/475.m3u8
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31804.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31804.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=31804&extension=.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/owa6og1571337802.png" group-title="SPORTS", NBA TV
@@ -5673,13 +5683,15 @@ https://bbb-bxntv-freelivesports.otteravision.com/bbb/bxntv/bxntv_360p.m3u8
 #EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-logo="https://iili.io/d9i4ecb.png" group-title="SPORTS", PREMIER SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10506.ts
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10506.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=10506&extension=.m3u8
 
 #EXTINF:-1 tvg-id="Premier Sports 2.ie" group-title="SPORTS" tvg-logo="https://iili.io/d9i4tHv.png", PREMIER SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kleanembed.online/
 #https://dupho8lwap1lspojoqeme1inow7stisodo4icroxustac.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/8LpHexevlthiwihl8one1ab/sY1bX6cA8rM3wQ7iN9jV2pE5hU0lGf.m3u8
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/54879.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/54879.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=54879&extension=.m3u8
 
 #EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png", PRIMA SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5706,7 +5718,8 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium450
 #https://bintangstreaming.my.id/forsat23/pro.php?id=450
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/49241.ts
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/49241.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=49241&extension=.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="psjtv.id" tvg-logo="https://i.ibb.co.com/R7km87W/psjtv.png",PSJ TV
 #EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -5756,7 +5769,8 @@ https://saruman1.tharen.cfd/sextra/usergenq8eo0q.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8KpXXX6.png" group-title="SPORTS", SKYSPORTS PREMIER LEAGUE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10517.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10517.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=10517&extension=.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofn2UUMuUcyBD_-7a82prieNzxCG3XnUzSQ&s" group-title="SPORTS", SKY LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
@@ -5814,20 +5828,22 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/SKY-LIVE-EVENT-7-HD/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/forsat23/pro.php?id=35
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10528.m3u8
-
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10528.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=10528&extension=.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://iili.io/JpwYNG2.png" group-title="SPORTS", Sky SPORTS FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/forsat23/pro.php?id=130
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10516.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10516.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=10516&extension=.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMainEventHD.uk" tvg-logo="https://iili.io/Jpwc5fp.jpg" group-title="SPORTS", Sky SPORTS MAIN EVENT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/forsat23/pro.php?id=38
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10518.m3u8
+#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10518.m3u8
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=10518&extension=.m3u8
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://i.ibb.co/Fg5SKyD/skymix.png" group-title="SPORTS", Sky SPORTS MIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6029,6 +6045,7 @@ https://fl1.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 #https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium388
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/138591.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=138591&extension=.m3u8
 
 #EXTINF:-1 tvg-name="TRUE P1" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier1.png" group-title="SPORTS",TRUE PREMIER 1 
 #https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD1_720p/chunklist.m3u8
@@ -6037,6 +6054,7 @@ https://fl1.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRUE P2" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier2.png" group-title="SPORTS",TRUE PREMIER 2
 #https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD2_720p/chunklist.m3u8
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191791.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=191791&extension=.m3u8
 
 
 #EXTINF:-1 tvg-name="TRUE P3" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier3.png" group-title="SPORTS",TRUE PREMIER 3
@@ -6045,22 +6063,27 @@ https://fl1.moveonjoy.com/TSN_5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TRUE P4" tvg-logo="http://www.thedesignpartnership.co.uk/logos/sport/truepremier4.png" group-title="SPORTS",TRUE PREMIER 4
 #https://delicate-hall-d108.wirdytv.workers.dev/02_PremierHD4_720p/chunklist.m3u8
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191753.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=191753&extension=.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 2" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport2.png" group-title="SPORTS",TRUE SPORT 2
 #https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd1_720p/chunklist.m3u8
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191752.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=191752&extension=.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 3" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport3.png" group-title="SPORTS",TRUE SPORT 3
 #https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd2_720p/chunklist.m3u8
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191751.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=191751&extension=.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 4" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/hd-tsport4.png" group-title="SPORTS",TRUE SPORT 4
 #https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd3_720p/chunklist.m3u8
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191755.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=191755&extension=.m3u8
 
 #EXTINF:-1 tvg-name="TRUE 5" tvg-logo="https://www.img02.xyz/assets/img/ch_logo/doomovie-epl5.png" group-title="SPORTS",TRUE SPORT 5
 #https://delicate-hall-d108.wirdytv.workers.dev/02_2sporthd4_720p/chunklist.m3u8
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191757.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=191757&extension=.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/HfR4NXyg/tvnsp.png" group-title="SPORTS", TVN SPORTS
 #https://jmp2.uk/sam-KRBC800015MH.m3u8
@@ -6073,23 +6096,27 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/400201955.ts
+#http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/400201955.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SPORTS",SONY SPORTS TEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/400201954.ts
+#http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/400201954.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276738&extension=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS",SONY SPORTS TEN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/400201953.ts
+#http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/400201953.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276739&extension=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SPORTS", SONY TEN 4 HD
 #https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1080194
+#http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1080194
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1080194&extension=.m3u8
 
 #EXTINF:-1 tvg-id="sonyten5hd.in" tvg-name="SONY TEN 5 HD" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="SPORTS",SONY TEN 5 HD
 #https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
@@ -6103,22 +6130,25 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #https://moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.mpd
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276734&extension=.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="SPORTS",Star Sports Select 2 HD
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276735.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276735&extension=.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xkekt61643389138.png" group-title="SPORTS",Star Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276730.ts
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276730&extension=.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQr9HMb6hcR25CGmQrlcxQiSzHP8rCnT7j6CcOvymBGq1biOYvr9dp8cMo&s=10" group-title="SPORTS",Star Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/276732.ts
-
+http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276732&extension=.m3u8
 
 
 
