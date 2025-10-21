@@ -383,13 +383,31 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 
 =========================================== LIVE EVENTS ===========================================
 
+#EXTINF:-1 tvg-id="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/22fLnbeSMVkfVpMZ-z7OX4fwJFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4660154/af795b.jpg" group-title="LIVE EVENTS", PON 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19687&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19687&type=dash
+
+#EXTINF:-1 tvg-id="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/22fLnbeSMVkfVpMZ-z7OX4fwJFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4660154/af795b.jpg" group-title="LIVE EVENTS", PON 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19688&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19688&type=dash
+
+#EXTINF:-1 tvg-id="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/22fLnbeSMVkfVpMZ-z7OX4fwJFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4660154/af795b.jpg" group-title="LIVE EVENTS", PON 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19686&type=drm
+https://seprai.jasoncreak8.workers.dev/play.mpd?id=19686&type=dash
+
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2025/02/FIFA-U-20-World-Cup-2025-Logo-New.png" group-title="LIVE EVENTS", FIFA U20 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=akMxzN0jGXM
+#https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=akMxzN0jGXM
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2025/02/FIFA-U-20-World-Cup-2025-Logo-New.png" group-title="LIVE EVENTS", FIFA U20 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=akMxzN0jGXM
+#https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=akMxzN0jGXM
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLq0lGsOwSoGPgN0yvQwmdEYlhYSc9ryn00Q&s" group-title="LIVE EVENTS", Live 1 
