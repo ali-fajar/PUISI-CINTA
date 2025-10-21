@@ -4912,12 +4912,12 @@ https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zj1pap1731234597.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV", ASTRO ARENA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163654.ts
-#http://front-main.eagle-4k.me:80/live/70:2a:d5:d9:dd:ce/k5xk8qkle0/1163654.ts
+http://viptwso.top:8080//VIP01545171425617373/ca75a1a2314d/34649
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5wx2p81731236425.png" group-title="SPORTS" tvg-id="001" tvg-name="",  ASTRO ARENA 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/1163655.ts
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=1163655&extension=.m3u8
+http://viptwso.top:8080//VIP01545171425617373/ca75a1a2314d/34649
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/necgva1731235994.png" group-title="SPORTS" tvg-id="001" tvg-name="",  ASTRO FOOTBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -4929,12 +4929,12 @@ https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium123
-https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RpM3pOdHpheUJzZTNMSjdZNHNnY3o1eFNZeW4zSEI3UWw3Z0VBPT0/master.m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=asspgrand&type=m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS" tvg-id="001" tvg-name="016-LABURATV",ASTRO PREMIER LEAGUE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
-https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RpdnpOdHpheUJzZTNMSjdBV3gzQTN3RkduR3I1OVFxbVZCK1RBPT0/master.m3u8
+#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGczQWxod0dZTUdjL1VxdnYwWUVaNjAxME15SGtWWlE5aFF2VlFnNWFOb0RpdnpOdHpheUJzZTNMSjdBV3gzQTN3RkduR3I1OVFxbVZCK1RBPT0/master.m3u8
 
 #EXTINF:-1 tvg-id="Astropremierleague2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="SPORTS",ASTRO PREMIER LEAGUE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
