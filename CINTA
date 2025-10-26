@@ -4375,6 +4375,13 @@ http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb061
 
 =====================================LIGA SPANYOL==========================================================================
 
+#EXTINF:-1 tvg-id="beINSports" group-title="LIGA SPANYOL" tvg-logo="https://www.visionplus.id/images/repository/771/198771-LOGO-m.png",beINSports 1+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
 #EXTINF:-1 tvg-id="beINSports" group-title="LIGA SPANYOL" tvg-logo="https://www.visionplus.id/images/repository/770/198770-LOGO-m.png", beIN Sports 3+ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
