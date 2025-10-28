@@ -401,12 +401,19 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=19686&type=drm
 #https://seprai.jasoncreak8.workers.dev/play.mpd?id=19686&type=dash
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2025/02/FIFA-U-20-World-Cup-2025-Logo-New.png" group-title="LIVE EVENTS", FIFA U20 1
+#EXTINF:-1 tvg-logo="https://www.msy.gov.qa/wp-content/uploads/2025/05/GqxCG1EWQAAz3sS-1568x882.jpeg" group-title="LIVE EVENTS", FIFA U17 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=voly1&type=m3u8
 #https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=akMxzN0jGXM
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2025/02/FIFA-U-20-World-Cup-2025-Logo-New.png" group-title="LIVE EVENTS", FIFA U20 2
+
+#EXTINF:-1 tvg-logo="https://www.msy.gov.qa/wp-content/uploads/2025/05/GqxCG1EWQAAz3sS-1568x882.jpeg" group-title="LIVE EVENTS", FIFA U17 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=voly1&type=m3u8
 #https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=akMxzN0jGXM
 
 
