@@ -4860,7 +4860,9 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=tnt2&type=m3u8
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 #https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcUfbFeXXwhr4guQ9a5fBKGXiAknKqoKJFbS0vibMqEg&s=10" group-title="LIVE VOLLY", FIM JUNIOR GP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=aXTbGCfq4MY
 
 
 
