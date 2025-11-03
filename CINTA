@@ -412,8 +412,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=u172&type=m3u8
 #EXTINF:-1 tvg-logo="https://www.msy.gov.qa/wp-content/uploads/2025/05/GqxCG1EWQAAz3sS-1568x882.jpeg" group-title="LIVE EVENTS", FIFA U17 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b94270cb8e823d95896cf9a497163b33:24dc3b305d7147061b3b8047f78268bc
-https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_40_00_d800ada3-af9f-4f22-9f9c-f0217e0ff901/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1762172100
+#KODIPROP:inputstream.adaptive.license_key=4e1bfeff452939168b7c44398f780821:2bddf9dc08051bac97ffa69bb852d1b1
+https://d7pd9oqdl4d44.cloudfront.net/2025_10_31_09_45_14_0c6b3bd2-7c82-4008-8ecd-42759eab5b44/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aeng%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1762180200
 
 #EXTINF:-1 tvg-logo="https://patch.com/img/cdn20/ap/22880694/20171103/112347/styles/raw/public/processed_images/ap_17304644206522-1509722443-1644.jpg" group-title="LIVE EVENTS", BREEDERS CUP 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
