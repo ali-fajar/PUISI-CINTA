@@ -225,7 +225,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8cf72e61626f4361a45c57ce6f2fdad8/in
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 #EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="NASIONAL",TVRI Nasional
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -254,9 +254,28 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mpd/FirstLifestyleHD.mpd
 
 
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="NASIONAL", STARA TV Majalengka
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://stream.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="NASIONAL", STARA TV Bandung
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://bandung.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="NASIONAL", STARA TV Cianjur
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://cianjur.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo/external" group-title="NASIONAL", STARA TV Malang
+#EXTVLCOPT:http-referrer=https://tv.garden/
+https://malang.staratv.id/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/d0UXGiG.md.png" group-title="NASIONAL", CarubanTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107
 
 #EXTINF:-1 group-title="NASIONAL"  tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg", Showbiz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -277,9 +296,10 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 https://Ams.Juraganstreaming.Com:5443/LiveApp/Streams/Celebesmedia.M3u8
 
 #EXTINF:-1 tvg-id="Jaktv.id" tvg-logo="https://iili.io/Jbtnm4s.png" group-title="NASIONAL",JakTV
-https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_5415_240p/hdntl=exp=1744566364~acl=%2flive%2f5415%2fmaster.m3u8!%2fhls-p%2fingest_5415*%2f*!%2fhls-b%2fingest_5415*%2f*~id=allUsers~data=hdntl~hmac=92e0e8733dd7d5449fd6d16c5a6ca37f8b0b2148827f4f8808cec5668f0a6a1f/index.m3u8
+#https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_5415_240p/hdntl=exp=1744566364~acl=%2flive%2f5415%2fmaster.m3u8!%2fhls-p%2fingest_5415*%2f*!%2fhls-b%2fingest_5415*%2f*~id=allUsers~data=hdntl~hmac=92e0e8733dd7d5449fd6d16c5a6ca37f8b0b2148827f4f8808cec5668f0a6a1f/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCkTNY9lxhd0K0-gG4QBKRzlxMmhBZQCHpQ&usqp=CAU" group-title="NASIONAL", Sampit TV
+https://e.siar.us/live/sampit-tv.m3u8
 
 #EXTINF:-1 tvg-id="Bali TV.id" tvg-logo="https://iili.io/JbtnVEu.png" group-title="NASIONAL", Bali TV
 https://cdn10jtedge.indihometv.com/atm/DASH/balitv/manifest.mpd
