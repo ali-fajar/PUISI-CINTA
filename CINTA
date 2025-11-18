@@ -570,7 +570,7 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Ma
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc5895799dc521e5d61ccedd4d4f1ebb:b5ecf7d95b70fbff640bf2124a63f2f3
-#https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19679/720p/file/drm/dash/stream.mpd?hdntl=exp=1763222910~acl=%2fstream%2f19679%2f720p%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f19679%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=194748021~data=hdntl~hmac=95086321e5372c556c7cbf514cf8270935e78f545f826e48f381a39a472b98df
+https://bintangstreaming.my.id/admin2/index.mpd?channel=mali_vs_indonesia&type=mpd
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="TIMNAS" tvg-id="001" tvg-name="016-LABURATV", SPORTSTARS 2 HD
