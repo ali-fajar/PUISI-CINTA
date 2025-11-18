@@ -1366,7 +1366,9 @@ https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=THooYCltViI
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+#https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
+https://fl7.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/016/50016-SNAPSHOT-l.png" group-title="KNOWLEDGE" tvg-url="https://bit.ly/IndonesiaEpg" tvg-id="OutdoorChannel" tvg-name="", Outdoor Channel V+
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
