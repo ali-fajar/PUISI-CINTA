@@ -686,19 +686,19 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
 
 =====================================BADMINTON=================================================================
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/2Qcy7ep50szzHbKsYfod_ClZ0s0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-quarterfinals-court-1-cd87e8.jpg" group-title="BADMINTON", COURT 1
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/uERawzDrzFcwVQCGKJRrAjtuRKA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-open-2025-round-of-16-court-3-36df6d.jpg" group-title="BADMINTON", COURT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu1&type=m3u8
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/2Qcy7ep50szzHbKsYfod_ClZ0s0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-quarterfinals-court-1-cd87e8.jpg" group-title="BADMINTON", COURT 2
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/uERawzDrzFcwVQCGKJRrAjtuRKA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-open-2025-round-of-16-court-3-36df6d.jpg" group-title="BADMINTON", COURT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/2Qcy7ep50szzHbKsYfod_ClZ0s0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/hylo-open-2025-quarterfinals-court-1-cd87e8.jpg" group-title="BADMINTON", COURT 3
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/uERawzDrzFcwVQCGKJRrAjtuRKA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-open-2025-round-of-16-court-3-36df6d.jpg" group-title="BADMINTON", COURT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
@@ -708,26 +708,26 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18249&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/svLFv8UkfrRr4u-wTqABW2bd3nM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-french-open-2025-round-of-32-court-2-a34384.jpg" group-title="BADMINTON", COURT 2B
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18250&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=dash
 
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/svLFv8UkfrRr4u-wTqABW2bd3nM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-french-open-2025-round-of-32-court-2-a34384.jpg" group-title="BADMINTON", COURT 3C
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18252&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/svLFv8UkfrRr4u-wTqABW2bd3nM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-french-open-2025-round-of-32-court-2-a34384.jpg" group-title="BADMINTON", COURT 4C
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play?id=18253&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
+#https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
 =============================================FIFA=================================================================
 
 
