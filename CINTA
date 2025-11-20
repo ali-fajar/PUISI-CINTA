@@ -704,6 +704,21 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu2&type=m3u8
 #EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu3&type=m3u8
 
+
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/uERawzDrzFcwVQCGKJRrAjtuRKA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-open-2025-round-of-16-court-3-36df6d.jpg" group-title="BADMINTON", COURT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu4&type=m3u8
+
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://thumbor.prod.vidiocdn.com/uERawzDrzFcwVQCGKJRrAjtuRKA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/sathio-group-australian-open-2025-round-of-16-court-3-36df6d.jpg" group-title="BADMINTON", COURT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu5&type=m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SedSAPWBOWXVXuQ69lyjOu-2Ay4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-french-open-2025-round-of-32-court-1-5f0fa5.jpg" group-title="BADMINTON", COURT 1A
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
