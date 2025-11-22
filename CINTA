@@ -5040,13 +5040,21 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=tnt4&type=m3u8
 
 #EXTINF:-1 group-title="UFC/MMA" tvg-id="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TT3kU7Wux9Bxm5HxGrQ22tRcT2Kap3qPHA&usqp=CAU", UFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc&type=m3u8
 
 #EXTINF:-1 group-title="UFC/MMA" tvg-id="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TT3kU7Wux9Bxm5HxGrQ22tRcT2Kap3qPHA&usqp=CAU", UFC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://tvcanale.live/
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc1&type=m3u8
+
+#EXTINF:-1 group-title="UFC/MMA" tvg-id="PPV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5TT3kU7Wux9Bxm5HxGrQ22tRcT2Kap3qPHA&usqp=CAU", UFC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
+#EXTVLCOPT:http-referrer=https://morgan.h3eaulperhapsfuzkhurried.shop/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ufc2&type=m3u8
 
 #EXTINF:-1 group-title="UFC/MMA" tvg-id="PPV" tvg-logo="https://thumbor.prod.vidiocdn.com/Y43i4P40zSxY_U1j10kkrPgXnHY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4398420/dde59c.jpg", ONE PRIDE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
