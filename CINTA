@@ -5499,6 +5499,18 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://spstr.abntv.live/hls/psstream.m3u8
 
+#EXTINF:-1 tvg-id="9c354ad6-3efc-4e4d-9cd8-3584bcc9c315" tvg-name="PSN 1 Sports" tvg-logo="https://s3.aynaott.com/storage/b0befd2d80789976ef317aeb5ef935b9" group-title="SPORTS",PSN 1 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+
+#EXTINF:-1 tvg-id="9e6373ed-e25b-49ef-9a76-35b144535f75" tvg-name="PSN 2 Sports " tvg-logo="https://s3.aynaott.com/storage/a6a66023b1ce294c3d0e8ebf256fa5f7" group-title="SPORTS",PSN 2 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+
+#EXTINF:-1 tvg-id="02a7f557-a6e7-4254-b9dd-f8c063ba97c5" tvg-name="PSN 4 Sports" tvg-logo="https://s3.aynaott.com/storage/bcfc4d063ae30626ae0ffe998c74c272" group-title="SPORTS",PSN 4 Sports
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+
+#EXTINF:-1 tvg-id="0790e6bd-458c-4f9d-86d9-1c554383b623" tvg-name="PSN 5 Sports" tvg-logo="https://s3.aynaott.com/storage/3c3b41f4c5f83f82011b90203c813508" group-title="SPORTS",PSN 5 Sports
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
 #EXTINF:-1 tvg-id="2023 Alkass 6.qa" tvg-logo="https://i.ibb.co.com/qdbZgVN/kass6.png" group-title="SPORTS", AL KASS 6
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 #https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof1ab/master.m3u8
@@ -6210,7 +6222,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium468
-https://bintangstreaming.my.id/forsat23/pro.php?id=468
+#https://bintangstreaming.my.id/forsat23/pro.php?id=468
 
 #EXTINF:-1 tvg-id="NovaSport1.cz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6tz1pp1649341425.png" group-title="SPORTS",Nova Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6299,16 +6311,15 @@ https://bbb-bxntv-freelivesports.otteravision.com/bbb/bxntv/bxntv_360p.m3u8
 
 #EXTINF:-1 tvg-id="Premier Sport 1.cz" tvg-logo="https://iili.io/d9i4ecb.png" group-title="SPORTS", PREMIER SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/10506.ts
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=10506&extension=.m3u8
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d3.merichunidya.com:1686/hls/premieruk.m3u8?md5=txz-vDKzz3ORqMYdspLlEA&expires=1762885613
 
 #EXTINF:-1 tvg-id="Premier Sports 2.ie" group-title="SPORTS" tvg-logo="https://iili.io/d9i4tHv.png", PREMIER SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
-#https://dupho8lwap1lspojoqeme1inow7stisodo4icroxustac.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/8LpHexevlthiwihl8one1ab/sY1bX6cA8rM3wQ7iN9jV2pE5hU0lGf.m3u8
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/54879.m3u8
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=54879&extension=.m3u8
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d2.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=_J3oJrtivShqTHda9IxoZA&expires=1762885619
 
 #EXTINF:-1 tvg-id="Prima Sport 1" group-title="SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/iymjt11656958292.png", PRIMA SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6332,11 +6343,9 @@ https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
 
 #EXTINF: -1 tvg-name="PTV Sports HD" tvg-logo="http://lifetvbd.xyz:8080/images/475bea7156621bdea87b7e478721474c.png" group-title="SPORTS", PTV Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium450
-#https://bintangstreaming.my.id/forsat23/pro.php?id=450
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/49241.ts
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=49241&extension=.m3u8
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d10.merichunidya.com:1686/hls/ptvpk.m3u8?md5=dT9cbed4TCeaWErx3VDX3g&expires=1762885509
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="psjtv.id" tvg-logo="https://i.ibb.co.com/R7km87W/psjtv.png",PSJ TV
 #EXTVLCOPT:http-user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -6732,19 +6741,22 @@ https://live2-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/191757.ts
 #http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=191757&extension=.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HfR4NXyg/tvnsp.png" group-title="SPORTS", TVN SPORTS
-#https://jmp2.uk/sam-KRBC800015MH.m3u8
+#EXTINF:-1  tvg-name="ASPORT" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",  group-title="SPORTS", A Sports HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=z-JN7PuCaSKXOEVPPA45BA&expires=1763875631
 
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/detail/263-2631569_http-www-crikify-com-ten-cricket-live-ten.png" group-title="SPORTS", TEN CRICKET
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-#https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d6.merichunidya.com:1686/hls/tenspk.m3u8?md5=VZXVJMu3ini4ICdoDHHEbA&expires=1762885515
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/400201955.ts
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276737&extension=.m3u8
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d9.merichunidya.com:1686/hls/ten1hd.m3u8?md5=BMf9ENxmVKdTz4b8rNe2-A&expires=1762885667
 
 
 
