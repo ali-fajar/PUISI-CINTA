@@ -5462,6 +5462,7 @@ https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=aTjkdULDnLY
 #EXTINF:-1 tvg-logo="https://www.volinesia.com/wp-content/uploads/2025/10/Timnas-Voli-Putri-Indonesia-U18-vs-Kazakhstan-U18-Live-Asian-Youth-Games-2025-400x225.jpg" group-title="LIVE VOLLY", AYG 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=RpeABVZubEg
+
 =========================================== SPORTS======================================================
 
 #EXTINF:-1 tvg-id="AD Sports 1 HD.ps" tvg-logo="https://i.ibb.co.com/7GJnHMX/adsport1.png" group-title="SPORTS", ABU DHABI SPORTS 1
@@ -5790,7 +5791,11 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=champ3&type=m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVR_o37afXn93MhkJJ7fIVVgPddw4DbtJA3RA8NSprlhJO2tA9YkUZnOXV&s=10" group-title="SPORTS" , CBS NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tvsen7.aynascope.net/cbs/index.m3u8?e=1763948069&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=5290cf549116c7c5467c60536b3e889d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emke3z1616616067.png" group-title="SPORTS" , CT SPORT
