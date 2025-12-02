@@ -2163,28 +2163,31 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live08.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/NPO_1_logo_2014.svg/2560px-NPO_1_logo_2014.svg.png" group-title="WORLD TV", NPO 1 
-https://fl7.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.m3u8
+#https://fl7.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/NPO_2_logo_2014.svg/1200px-NPO_2_logo_2014.svg.png" group-title="WORLD TV", NPO 2
-https://fl7.moveonjoy.com/SMITHSONIAN_CHANNEL/tracks-v1a1/mono.m3u8
+#https://fl7.moveonjoy.com/SMITHSONIAN_CHANNEL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/NPO_3_logo_2018.svg/1200px-NPO_3_logo_2018.svg.png" group-title="WORLD TV", NPO 3 
-https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
+#https://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/RTL_4_logo_2005.svg/1200px-RTL_4_logo_2005.svg.png" group-title="WORLD TV", RTL 4 
-https://fl7.moveonjoy.com/STARZ_ENCORE_ACTION/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/RaiItalia/mediampd/RaiItalia.mpd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTntZs7tMx8-Lg9OTNmuY0lVjZcRFnEOjxSytRoxE_kPqRWgXQAWMZwMW0&s=10" group-title="WORLD TV" tvg-name="San Marino RTV", RTV SAN MARINO SPORT
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
+#https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnUwKjfE2P7pdC98s_zyIZkb53Rz8nWDwhKlWs2VHf4vwMpjiWeIbs-Fv&s=10" group-title="WORLD TV", Palestine TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://pbc.furrera.ps/palestinehd/index.m3u8
+#https://pbc.furrera.ps/palestinehd/index.m3u8
 
 
 
