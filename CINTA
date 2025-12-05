@@ -2129,10 +2129,10 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/cctv1.jpg" group-title="WORLD TV", CCTV1
 http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGoTctXMaFB8D48-VIklFHwStTaJj97Y37pRuyrIadeKMp6eoBgiYOa8Q&s=10" group-title="WORLD TV", CCTV2
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzGoTctXMaFB8D48-VIklFHwStTaJj97Y37pRuyrIadeKMp6eoBgiYOa8Q&s=10" group-title="WORLD TV",CCTV2
 http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
 
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UOiqoMeBvyJ8vZoj421V65Kw7RHKhoqvCmlOkg6ZxEzJ7a1-DwLyqDk&s=10" group-title="WORLD TV", CCTV3
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UOiqoMeBvyJ8vZoj421V65Kw7RHKhoqvCmlOkg6ZxEzJ7a1-DwLyqDk&s=10" group-title="WORLD TV",CCTV3
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
 
 
