@@ -4669,6 +4669,9 @@ https://fl7.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.ts.m3u8
 
 =================================================LIGA INDONESIA=================================================================================================================
 
+#EXTINF:-1 group-title="LIGA INDONESIA" tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1964956075876388864/eQ2tjP_b_400x400.jpg", INDOSIAR SPORTS 
+http://tv.casindo.org/hls/56/56.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/BRI_Super_League_Indonesia.png" group-title="LIGA INDONESIA", BRI 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-origin=https://morgan.h3eaulperhapsfuzkhurried.shop
@@ -5072,6 +5075,8 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=spa2&type=m3u8
 https://bintangstreaming.my.id/connect/index.m3u8?channel=spa3&type=m3u8
 =======================================LIGA ITALIA==========================================================================
 
+#EXTINF:-1 group-title="LIGA ITALIA" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOMTtgFjq0jKtc42JZVD_64BQzhGIk1UfP39WdL5rvg&s=10", ANTV SPORTS 
+https://tv.casindo.org/hls/45/45.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuZnHWpyN5JqE7IGJlMC-qSuJg5nr2AhPu17HQBP0jnOnSlZWxikZX3gd&s=10" group-title="LIGA ITALIA", ITALIA 1
