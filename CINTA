@@ -2000,13 +2000,13 @@ https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
 =========================================== MUSIC ===========================================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/music-tv-id.png" group-title="MUSIC",MIC TV
-https://v2.siar.us/mic/live/playlist.m3u8
+#https://v2.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-id="popmusic.id" tvg-logo="https://w7.pngwing.com/pngs/707/217/png-transparent-logo-pop-music-radio-disc-jockey-pop-electronics-text-musical-ensemble.png",POP Music
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+#https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-id="maleo.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTTI2SpXIly38KMTQPAZAbO--lPEqCEyemj_PCE6h1dE4JrAzbTbVNRvyMjGRVR3VVkA&usqp=CAU",Maleo
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+#https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-name="MTV LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCRxr3ARrMGyNPsZZE7Pij1zh3hx9X8_afw&s" group-title="MUSIC",MTV LIVE (V+)
@@ -2032,19 +2032,19 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501370_tvchannels_v1.jpg", Dens ShowBiz
-http://210.210.155.35/x6bnqe/s/s35/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_ShowBiz
+#http://210.210.155.35/x6bnqe/s/s35/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Dens_ShowBiz
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a7d0a511226fce3ea3842a91056762d9.png",NOW 70
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7330c92fcbc8b452e64e160cf048cc21.png",NOW 80
-https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/nowrock.png",NOW ROCK
-https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="http://s3.i3ns.net/portal/picon/2023-01/6bf58983d255ceb95c15e53ba64237db.png",Trace Urban
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 
 
 
