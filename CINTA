@@ -414,7 +414,7 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/RTMP-IN.m3u8
+https://liveplus.rctiplus.id/rcti2023.m3u8
 
 #EXTINF:-1 tvg-id="VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/22fLnbeSMVkfVpMZ-z7OX4fwJFk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4660154/af795b.jpg" group-title="LIVE EVENTS", PON 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
