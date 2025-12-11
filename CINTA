@@ -869,6 +869,9 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bulu5&type=m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
 
+#EXTINF:-1 group-title="KIDS" tvg-id="Boomerang" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", BOOMERANG KIDS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=rEKifG2XUZg
 
 #EXTINF:-1 group-title="KIDS" tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/86lrzdnton1dobh/aniplus.png", ANIPLUS
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -878,14 +881,18 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/01.m3u8
 #EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://i.ibb.co/Rpn0Rrf/babyshark.png" tvg-chno="3170" group-title="KIDS" , Baby Shark TV 🇰🇷
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-
+#EXTINF:-1 group-title="KIDS" tvg-id="Robocar poli" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Robocar_Poli.png", ROBOCAR POLI
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=b5oxspLlU0s
 
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png",FUN PLANET
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
-
+#EXTINF:-1 group-title="KIDS" tvg-id="Masha" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://m.media-amazon.com/images/S/aplus-media-library-service-media/b00ca1d4-705a-403d-abaa-1d547e98d9c1.__CR0,0,1080,540_PT0_SX350_V1___.jpg", MASHA AND THE BEAR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=xKUDpdfX8Nw
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co.com/xXxyBrv/dunianak.png",Besmart (V+)
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
