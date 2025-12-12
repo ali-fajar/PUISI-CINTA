@@ -7122,48 +7122,48 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="SPORTS",Portugal- SPORT TV 1 HD
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/165647.ts
+http://filex.tv:8080//live/000003/000003/316801.m3u8
 
 
 #EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="SPORTS",Portugal- Sport TV 2
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/165648.ts
+http://filex.tv:8080//live/000003/000003/316802.m3u8
 
 #EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="SPORTS",Portugal- Sport TV 3
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/165649.ts
+http://filex.tv:8080//live/000003/000003/316803.m3u8
 
 
 #EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="SPORTS",Portugal- Sport TV 4
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/165650.ts
+http://filex.tv:8080//live/000003/000003/316801.ts
 
 
 #EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="SPORTS",Portugal- Sport TV 5
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/165651.ts
+http://filex.tv:8080//live/000003/000003/316805.ts
 
 
 
 #EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="SPORTS", Sport Klub 1 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/401423029.ts
+http://filex.tv:8080//live/000003/000003/303035.m3u8
 
 #EXTINF:-1 xui-id="11181" tvg-id="" tvg-name="EX YU: Sport Klub 2 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sportklub_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305141404" group-title="SPORTS", Sport Klub 2 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/401423028.ts
+http://filex.tv:8080//live/000003/000003/303036.m3u8
 
 #EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="SPORTS", Sport Klub 3 SR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227271.ts
+http://filex.tv:8080//live/000003/000003/303037.m3u8
 
 #EXTINF:-1 xui-id="7868" tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/RMC_SPORT_1_UHD_2018_OFFICIEL.png/revision/latest/scale-to-width-down/1000?cb=20191103072741" group-title="SPORTS", RMC Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/675.ts
+http://filex.tv:8080//live/000003/000003/301912.m3u8
 
 #EXTINF:-1 xui-id="7869" tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012132613" group-title="SPORTS", RMC Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/676.ts
+http://filex.tv:8080//live/000003/000003/301913.m3u8
 
 
 
@@ -7200,13 +7200,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://iili.io/JpN1zwF.png" group-title="SPORTS", ZIGGO SPORT DOCU
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/16823.ts
+http://filex.tv:8080//live/000003/000003/303689.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://iili.io/JpN1WPf.png" group-title="SPORTS", ZIGGO SPORT SELECT
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/16819.ts
+http://filex.tv:8080//live/000003/000003/303693.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://iili.io/JpNlDe1.png" group-title="SPORTS", ZIGGO SPORT VOETBAL
-http://ypbmbfwd.mexamo.xyz:80/live/54RL5KJE/QVVXHK64/16818.ts
+http://filex.tv:8080//live/000003/000003/303695.m3u8
 
 =========================== PLUTO TV =============================================================
 
