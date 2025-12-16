@@ -2496,14 +2496,14 @@ https://livetvkilatlive.applecdnstore.com/livetv/2024/UK_ITV_3/tracks-v1a1/mono.
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPpkHFKzYLl_Qc26hfAaXi35QVDmXrlv7Z4w&usqp=CAU" group-title="CIGNAL",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="CIGNAL",SPOTV 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThwXTf3GqpkV45oeSdt2LAODqtpSn1L7wfZg&usqp=CAU" group-title="CIGNAL", PREMIER TENNIS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -2545,13 +2545,14 @@ https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_pbo.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
-https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2HOcdQifRFC5p9rFSuQE01wwv5EqxwzfTA&s" group-title="CIGNAL",SPOTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.livestream=false
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTEokWOfbvZ85yFT_W1o8Xc3bdAp0eEGqTaQ&s" group-title="CIGNAL", BLOOMBERG 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -2825,21 +2826,22 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_onenews.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVm5SNtHNq8cYXwUoAOV8iNblXgLY6TG0KtwuCXeoWsdXVA-6x11x1x0c&s=10" group-title="CIGNAL",ONE SPORTS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDAB-L0oBM4czRNhLLmXh8h5DUzcpsXLTsA&usqp=CAU" group-title="CIGNAL",ONE SPORTS PLUS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLzL8DEoGYh_bmzYbIeRTtw9wumaYKGvs1Q&usqp=CAU" group-title="CIGNAL",TAP SPORTS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapsports/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Tap-Movies-Nov-2021-Highlights-Vid-Thumbnails.jpg" group-title="CIGNAL",TAP MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
