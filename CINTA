@@ -4681,9 +4681,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-https://tzh911.qzz.io/play-smt.php?id=TV3
+#https://tzh911.qzz.io/play-smt.php?id=TV3
 #https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/NusantaraTv.m3u8
-#http://link.zozotv.xyz:8080/live/ZZA21216/zxe36880/17.ts
+http://link.zozotv.xyz:8080/live/ZZA21216/zxe36880/17.ts
 
 #EXTINF:-1 group-title="Malaysia" tvg-id="BernamaTV" tvg-name="BernamaTV" tvg-logo="https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png", BERNAMA
 https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/Bernama.m3u8
