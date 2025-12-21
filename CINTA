@@ -5927,14 +5927,25 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 #EXTINF:-1 tvg-id="DDSPORT" tvg-name="DD Sports" tvg-logo="https://s3.aynaott.com/storage/188500190395c4de0e506d518925dcc4" group-title="SPORTS",DD SPORRS
 https://cdn-6.pishow.tv/live/13/master.m3u8
 
-#EXTINF:-1 tvg-id="PERSIANA SPORT" tvg-name="Persiana Sports" tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="SPORTS",PERSIANA SPORTS
-https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-id="PERSIANA SPORT1" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 1
+https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana1&type=m3u8
+
+#EXTINF:-1 tvg-id="PERSIANA SPORT2" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 2
+https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana2&type=m3u8
+
+#EXTINF:-1 tvg-id="PERSIANA SPORT3" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 3
+https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana3&type=m3u8
+
+#EXTINF:-1 tvg-id="PERSIANA SPORT4" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 4
+https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana4&type=m3u8
+
 
 #EXTINF:-1 tvg-id="4SPORT" tvg-name="4 Sports" tvg-logo="https://s3.aynaott.com/storage/076d49c9e09651ec0f1e1eee338e4a19" group-title="SPORTS", 4 SPORTS
 https://pepsi.abntv.live/hls/4spstream.m3u8
 
 #EXTINF:-1 tvg-id="SPORT1" tvg-name="Sports TV" tvg-logo="https://s3.aynaott.com/storage/334c56d6cedd424b0642ec83f05bc381" group-title="SPORTS", SPORTS TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+https://gg.hls2.xyz/live/Prosporttv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2023 Alkass 6.qa" tvg-logo="https://i.ibb.co.com/qdbZgVN/kass6.png" group-title="SPORTS", AL KASS 6
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
