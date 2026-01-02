@@ -6025,15 +6025,23 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 https://cdn-6.pishow.tv/live/13/master.m3u8
 
 #EXTINF:-1 tvg-id="PERSIANA SPORT1" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana1&type=m3u8
 
 #EXTINF:-1 tvg-id="PERSIANA SPORT2" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana2&type=m3u8
 
 #EXTINF:-1 tvg-id="PERSIANA SPORT3" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana3&type=m3u8
 
 #EXTINF:-1 tvg-id="PERSIANA SPORT4" tvg-name="Persiana Sports" tvg-logo="https://www.parsatv.com/index_files/channels/persianasporttv.png" group-title="SPORTS",PERSIANA SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.aparatchi.com/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=persiana4&type=m3u8
 
 
