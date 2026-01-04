@@ -5399,6 +5399,9 @@ http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb061
 #KODIPROP:inputstream.adaptive.license_key=94bd14876689a529516017e35638d51a:32b1813bc43d17d6623a306a9513bb7a
 #https://optus.apigateway.web.id/optus/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
 
+#EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png" group-title="LIGA INGGRIS",SKY NZ8
+https://7pal.short.gy/skyspt8nz
+
 
 =====================================LIGA SPANYOL==========================================================================
 
@@ -6851,9 +6854,10 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 
-#EXTINF:-1 tvg-name="Tigo Sports" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tigo_Sports_2025.png", TIGO SPORT
+#EXTINF:-1 tvg-name="Tvri Sports" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSm75uUXEv7lK_uF9ud4R3M7i43j-j2mpLxXaZv_v4nF0cVRo1RB_MiY&s=10", TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://cnm-tsl.otteravision.com/cnm/tsl/tsl_360.m3u8
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-name="Tvs Boxing" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRff9Rd5NI49y1VfD8s5QrLWGNVN3gf2rsJWecPvz_Yk-00W8bP6H90hUY3&s=10", TVS BOXING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
