@@ -5890,9 +5890,11 @@ https://bintangstreaming.my.id/youtube/hls.php/.m3u8?id=vy4ogPuyv9g
 ########################################VNL##################
 
 
-#EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffDsDDNZeZVHmxFJ3FzzW8peNqqUdQnyk8cUDC1LPYQ&s=10" group-title="LIVE VOLLY", VOLLY TV
+#EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffDsDDNZeZVHmxFJ3FzzW8peNqqUdQnyk8cUDC1LPYQ&s=10" group-title="LIVE VOLLY", VOLLY TV1
 https://tv.casindo.org/hls/2/2.m3u8
 
+#EXTINF:-1 tvg-id="VOLY TV" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffDsDDNZeZVHmxFJ3FzzW8peNqqUdQnyk8cUDC1LPYQ&s=10" group-title="LIVE VOLLY", VOLLY TV2
+https://tv.casindo.org/hls/50/50.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9m0j61NBKyWVuWw-PMYvjlX5IK4LY8sPXTUSx68gcY_HppDbVnotNV9Edg&s" group-title="LIVE VOLLY", LIVE MOJI INA VS ITA
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
