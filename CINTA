@@ -5900,7 +5900,7 @@ https://tv.casindo.org/hls/50/50.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79de825cc4074f4e2d0f5e62e401713d:aaa4eca2649c47572574cb8c172dfa10
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1767977260~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=197585761~data=hdntl~hmac=4874e81007be9efb55ba5ef826ae50e4bda2c0218649f0509d8b595d3a277626
+https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/20240/file/drm/dash/stream.mpd?hdntl=exp=1768048211~acl=%2fstream%2f20240%2ffile%2fdrm%2fdash%2fstream.mpd!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2faac%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-1080p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-720p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-480p%2f*!%2fstream%2f20240%2ffile%2fdrm%2fdash%2f*%2f*-360p%2f*~id=197585761~data=hdntl~hmac=6e28ea1ea314f7e9677a969e0196a93d0c51e710156575ecd4df069f9d3f274c
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf9m0j61NBKyWVuWw-PMYvjlX5IK4LY8sPXTUSx68gcY_HppDbVnotNV9Edg&s" group-title="LIVE VOLLY", LIVE MOJI 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
