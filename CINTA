@@ -5402,29 +5402,29 @@ KODIPROP:inputstreamaddon=inputstream.adaptive
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qoerty1659622111.png", tvg-id="" group-title="LIGA INGGRIS",HUB 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=hub1&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=hub1&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png", tvg-id="" group-title="LIGA INGGRIS",HUB 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=hub2&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=hub2&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png", tvg-id="" group-title="LIGA INGGRIS",HUB 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=hub3&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=hub3&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png", tvg-id="" group-title="LIGA INGGRIS",HUB 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png", tvg-id="" group-title="LIGA INGGRIS",HUB 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
+#https://bintangstreaming.my.id/connect/index.m3u8?channel=hub4&type=m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 #https://bintangstreaming.my.id/daddytv/hls.php/.m3u8?id=premium595
-http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb06134.m3u8
+#http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb06134.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QwoTOxs1R-CIbTfWMCcyojwGpIlGU3a2yBf-iTLVX7JBlreTSn622eI&s=10", tvg-id="" group-title="LIGA INGGRIS",Optus Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -5468,7 +5468,7 @@ http://mains.services/live/bshorty/Zv5le07a0J/e9301034-7ab8-4915-86f2-9e092bb061
 #https://optus.apigateway.web.id/optus/v7/OptusSport11/xbtss/drm/avc/dash/plain/manifest.mpd
 
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/3vgq481642607065.png" group-title="LIGA INGGRIS",SKY NZ8
-https://7pal.short.gy/skyspt8nz
+#https://7pal.short.gy/skyspt8nz
 
 
 =====================================LIGA SPANYOL==========================================================================
