@@ -6256,13 +6256,13 @@ https://dash2.antik.sk/stream/hisi_as2/playlist_cbcs.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/227254.ts
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-2.m3u8?raw=true
+#https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-2.m3u8?raw=true
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/yjqg7l1643205550.png" group-title="SPORTS" tvg-id="001" tvg-name="",  ARENA SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://liveboxpro.com/
 #https://bintangstreaming.my.id/forsat23/pro.php?id=434
-https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-3.m3u8
+#https://github.com/udzaa2238/tvtb-me/raw/refs/heads/main/arena-sport-3.m3u8
 
 #EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="SPORTS", ARENA SPORT PREMIUM 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -6361,6 +6361,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMP_4SJ5aoPLbr9J3DAsNA9hhsl1NhZZL5YYc_mhU8mqWBHaWtxynViQyS&s=10" group-title="SPORTS" , BEIN SPORTS XTRA En Español 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtraespanol-vidaa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 1" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/beinsports1.png" group-title="SPORTS", BeIN Sports TR 1
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 2" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/beinsports2.png" group-title="SPORTS", BeIN Sports TR 2
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 3" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/beinsports3.png" group-title="SPORTS", BeIN Sports TR 3
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein1" tvg-name="BeIN Sports 4" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/beinsports4.png" group-title="SPORTS", BeIN Sports TR 4
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.52c26716e2e875.click/live/selcukbeinsports4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="SPORTS",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -7540,48 +7556,48 @@ https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 xui-id="11539" tvg-id="" tvg-name="Portugal- SPORT TV 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/Sporttv-1.svg/revision/latest/scale-to-width-down/300?cb=20231020154416" group-title="SPORTS",Portugal- SPORT TV 1 HD
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://filex.tv:8080//live/000003/000003/316801.m3u8
+#http://filex.tv:8080//live/000003/000003/316801.m3u8
 
 
 #EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="SPORTS",Portugal- Sport TV 2
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://filex.tv:8080//live/000003/000003/316802.m3u8
+#http://filex.tv:8080//live/000003/000003/316802.m3u8
 
 #EXTINF:-1 xui-id="11541" tvg-id="" tvg-name="Portugal- Sport TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest/scale-to-width-down/300?cb=20231020154659" group-title="SPORTS",Portugal- Sport TV 3
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://filex.tv:8080//live/000003/000003/316803.m3u8
+#http://filex.tv:8080//live/000003/000003/316803.m3u8
 
 
 #EXTINF:-1 xui-id="11542" tvg-id="" tvg-name="Portugal- Sport TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/Sporttv-4.svg/revision/latest/scale-to-width-down/300?cb=20231020155940" group-title="SPORTS",Portugal- Sport TV 4
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://filex.tv:8080//live/000003/000003/316801.ts
+#http://filex.tv:8080//live/000003/000003/316801.ts
 
 
 #EXTINF:-1 xui-id="11543" tvg-id="" tvg-name="Portugal- Sport TV 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/Sporttv-5.svg/revision/latest/scale-to-width-down/300?cb=20231020160018" group-title="SPORTS",Portugal- Sport TV 5
 #EXTVLCOPT:http-user-agent=OTT Player/1.7.3.1 (Linux;Android 14; mphvxm) ExoPlayerLib/2.15.1
-http://filex.tv:8080//live/000003/000003/316805.ts
+#http://filex.tv:8080//live/000003/000003/316805.ts
 
 
 
 #EXTINF:-1 xui-id="11180" tvg-id="" tvg-name="EX YU: Sport Klub 1 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Sportklub_1_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305095758" group-title="SPORTS", Sport Klub 1 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://filex.tv:8080//live/000003/000003/303035.m3u8
+#http://filex.tv:8080//live/000003/000003/303035.m3u8
 
 #EXTINF:-1 xui-id="11181" tvg-id="" tvg-name="EX YU: Sport Klub 2 SR HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sportklub_2_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305141404" group-title="SPORTS", Sport Klub 2 SR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://filex.tv:8080//live/000003/000003/303036.m3u8
+#http://filex.tv:8080//live/000003/000003/303036.m3u8
 
 #EXTINF:-1 xui-id="11182" tvg-id="" tvg-name="EX YU: Sport Klub 3 SR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="SPORTS", Sport Klub 3 SR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://filex.tv:8080//live/000003/000003/303037.m3u8
+#http://filex.tv:8080//live/000003/000003/303037.m3u8
 
 #EXTINF:-1 xui-id="7868" tvg-id="" tvg-name="FR: RMC Sport 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/RMC_SPORT_1_UHD_2018_OFFICIEL.png/revision/latest/scale-to-width-down/1000?cb=20191103072741" group-title="SPORTS", RMC Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://filex.tv:8080//live/000003/000003/301912.m3u8
+#http://filex.tv:8080//live/000003/000003/301912.m3u8
 
 #EXTINF:-1 xui-id="7869" tvg-id="" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Logo_RMC_Sport_2_2018.svg/revision/latest/scale-to-width-down/200?cb=20191012132613" group-title="SPORTS", RMC Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-http://filex.tv:8080//live/000003/000003/301913.m3u8
+#http://filex.tv:8080//live/000003/000003/301913.m3u8
 
 
 
@@ -7618,13 +7634,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://iili.io/JpN1zwF.png" group-title="SPORTS", ZIGGO SPORT DOCU
-http://filex.tv:8080//live/000003/000003/303689.m3u8
+#http://filex.tv:8080//live/000003/000003/303689.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://iili.io/JpN1WPf.png" group-title="SPORTS", ZIGGO SPORT SELECT
-http://filex.tv:8080//live/000003/000003/303693.m3u8
+#http://filex.tv:8080//live/000003/000003/303693.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://iili.io/JpNlDe1.png" group-title="SPORTS", ZIGGO SPORT VOETBAL
-http://filex.tv:8080//live/000003/000003/303695.m3u8
+#http://filex.tv:8080//live/000003/000003/303695.m3u8
 
 =========================== PLUTO TV =============================================================
 
