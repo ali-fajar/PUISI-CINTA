@@ -6666,6 +6666,38 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
+#EXTINF:-1 tvg-id="dazn1" tvg-name="Dazn 1Tr" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/dazn1.jpg" group-title="SPORTS", Dazn 1 TR
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sdazn1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="dazn2" tvg-name="Dazn 2Tr" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/dazn2.jpg" group-title="SPORTS", Dazn 2 TR
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sdazn2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ssport" tvg-name="ssport" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/ssport_logo.png" group-title="SPORTS", SSport TR
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssport/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ssport2" tvg-name="ssport2" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/ssport2_logo.png" group-title="SPORTS", SSport 2 TR
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssport2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ssport plus" tvg-name="ssport plus" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/ssportplus_logo.png" group-title="SPORTS", SSport Plus 1 TR
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssplus1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ssport plus2" tvg-name="ssport plus2" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/ssportplus_logo.png" group-title="SPORTS", SSport Plus 2 TR
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/sssplus2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="spor smart" tvg-name="spor smart 1" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/smartspor.jpg" group-title="SPORTS", Spor Smart 1 TR
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/ssmartspor/playlist.m3u8
+
+#EXTINF:-1 tvg-id="spor smart2" tvg-name="spor smart 2" tvg-logo="https://www.sporcafe-cad55a3442.xyz/assets/images/channels/smartspor.jpg" group-title="SPORTS", Spor Smart 2 TR
+#EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
+https://dga1op10s1u3leo.ae7a68ab7a83db.click/live/ssmartspor2/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE8zw5avVpxA0A-Xcvb2TqHn2qXSnu-0QrAdsckHhaOd6vZGjcXNFmuy0&s=10" group-title="SPORTS", SPORTSTV
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
