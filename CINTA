@@ -800,7 +800,7 @@ https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
 
-EXTINF:-1 group-title="BADMINTON" tvg-id="TRUE7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6t_N7tKZe2AKHOr_bSs_N5WeN0qoG-R-7hx33lqFA1xRfvbV0uYcPiY&s=10", BACT ASIA 2
+#EXTINF:-1 group-title="BADMINTON" tvg-id="TRUE7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6t_N7tKZe2AKHOr_bSs_N5WeN0qoG-R-7hx33lqFA1xRfvbV0uYcPiY&s=10", BACT ASIA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2010J19CG Build/SKQ1.211202.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/140.0.7339.207 Mobile Safari/537.36
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
 
