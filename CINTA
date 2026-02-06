@@ -793,7 +793,13 @@ https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://liveplus.rctiplus.id/rcti2023.m3u8
+#https://liveplus.rctiplus.id/rcti2023.m3u8
+
+#EXTINF:-1 group-title="BADMINTON" tvg-id="MLIVE2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC6t_N7tKZe2AKHOr_bSs_N5WeN0qoG-R-7hx33lqFA1xRfvbV0uYcPiY&s=10", BACT ASIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
 
 
 #EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-name="Sportstars 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbpNxVjeUuIfnO6jnEPWM4UYMEpOJkmsVwaLLlJrr0g&s=10" group-title="BADMINTON", COURT 1
