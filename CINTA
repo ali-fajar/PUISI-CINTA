@@ -265,7 +265,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="NASIONAL",Asian Food Network
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+#http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
+
+#EXTINF:-1 tvg-id="MBGTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi0Ae7fJuFOt4B6E-k0j0YYLsCPtqRbDnJ6cGGvL8Y31kY3EVGtQU6t5pC&s=10" group-title="NASIONAL", MBGTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
+https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png" group-title="NASIONAL",First Lifestyle
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
