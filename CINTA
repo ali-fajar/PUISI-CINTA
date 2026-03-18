@@ -1111,28 +1111,28 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4065
 =========================================== RELIGI ===========================================
 
 
-#EXTINF:-1 tvg-name="INSAN TV" tvg-logo="https://youtv.live/data/channel/insantv.jpg" group-title="RELIGI", INSAN TV
+#EXTINF:-1 tvg-name="INSAN TV" tvg-logo="https://youtv.id/data/channel/insantv.jpg" group-title="RELIGI", INSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch1.m3u8?chcat=FTA&md5=5qf29cjzvE_jChfdw5IahQ&expires=1748006461
 
-#EXTINF:-1 tvg-name="ASHIL TV" tvg-logo="https://youtv.live/data/channel/ashiiltv.jpg" group-title="RELIGI", ASHIL TV
+#EXTINF:-1 tvg-name="ASHIL TV" tvg-logo="https://youtv.id/data/channel/ashiiltv.jpg" group-title="RELIGI", ASHIL TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch2.m3u8?chcat=FTA&md5=LoXfPgCjm3LzWr5TnF3m1w&expires=1748006537
 
-#EXTINF:-1 tvg-name="SURAU TV" tvg-logo="https://youtv.live/data/channel/surautv.jpg" group-title="RELIGI", SURAU TV
+#EXTINF:-1 tvg-name="SURAU TV" tvg-logo="https://youtv.id/data/channel/surautv.jpg" group-title="RELIGI", SURAU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch3.m3u8?chcat=FTA&md5=nz5VdxwjcFHxHl74Zb_imQ&expires=1747252091
 
-#EXTINF:-1 tvg-name="AHSAN TV" tvg-logo="https://youtv.live/data/channel/ahsantv.jpg" group-title="RELIGI", AHSAN TV
+#EXTINF:-1 tvg-name="AHSAN TV" tvg-logo="https://youtv.id/data/channel/ahsantv.jpg" group-title="RELIGI", AHSAN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch4.m3u8?chcat=FTA&md5=CXo_Fh8Ekbze1xZlym4Bmg&expires=1747252209
 
 
-#EXTINF:-1 tvg-name="MUADZ TV" tvg-logo="https://youtv.live/data/channel/muadztv-2022-06-18.png" group-title="RELIGI", MUADZ TV
+#EXTINF:-1 tvg-name="MUADZ TV" tvg-logo="https://youtv.id/data/channel/muadztv-2022-06-18.png" group-title="RELIGI", MUADZ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch5.m3u8?chcat=FTA&md5=k1nJEj-sehr5fqU5dy447g&expires=1748006586
 
-#EXTINF:-1 tvg-name="IZZAH TV" tvg-logo="https://youtv.live/data/channel/izzahtv.jpg" group-title="RELIGI", IZZAH TV
+#EXTINF:-1 tvg-name="IZZAH TV" tvg-logo="https://youtv.id/data/channel/izzahtv.jpg" group-title="RELIGI", IZZAH TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch28.m3u8?chcat=FTA&md5=IGfqkTDjvz3KMoneVk0z1w&expires=1747252450
 
@@ -1220,7 +1220,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/muitv/manifest.mpd
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPDxksxeyqDJPxy98kVpcOqD8QpUYFUcIH6WB-10WzhvjtglxxbHetXVDI&s=10",NABAWI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
@@ -1230,7 +1230,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/sultantvnew2.php
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be3fbd2f58d7/86556e8bfa3d423e97038d36c040e6fd.png" group-title="RELIGI",Khazanah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28131b9/1000/manifest.mpd
@@ -1239,47 +1239,47 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 http://j.mp/2b8SiNO
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10", JUZZ 2
 http://j.mp/2b8RJmQ
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",003. Ali 'Imran (Keluarga Imran)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",003. Ali 'Imran (Keluarga Imran)
 https://archive.org/download/MurotalMR/003.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",004. An-Nisaa' (Wanita)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",004. An-Nisaa' (Wanita)
 https://archive.org/download/MurotalMR/004.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",005. Al-An'aam (Binatang Ternak)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",005. Al-An'aam (Binatang Ternak)
 https://archive.org/download/MurotalMR/006.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",006. Al-A'raaf (Tempat Tertinggi)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",006. Al-A'raaf (Tempat Tertinggi)
 https://archive.org/download/MurotalMR/007.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",007. Al-Anfaal (Rampasan Perang)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",007. Al-Anfaal (Rampasan Perang)
 https://archive.org/download/MurotalMR/008.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",008. At-Taubah (Pengampunan)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",008. At-Taubah (Pengampunan)
 https://archive.org/download/MurotalMR/009.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",009. Yunus (Nabi Yunus a.s.)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",009. Yunus (Nabi Yunus a.s.)
 https://archive.org/download/MurotalMR/010.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",010. Hud (Nabi Hud a.s.)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",010. Hud (Nabi Hud a.s.)
 https://archive.org/download/MurotalMR/011.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",011. Yusuf (Nabi Yusuf a.s.)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",011. Yusuf (Nabi Yusuf a.s.)
 https://archive.org/download/MurotalMR/012.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",012. Ar-Ra'd (Guruh)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",012. Ar-Ra'd (Guruh)
 https://archive.org/download/MurotalMR/013.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",013. Al-Maa'idah (Hidangan)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",013. Al-Maa'idah (Hidangan)
 https://archive.org/download/MurotalMR/005.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",014. Ibrahim (Nabi Ibrahim a.s.)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",014. Ibrahim (Nabi Ibrahim a.s.)
 https://archive.org/download/MurotalMR/014.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",,015. Al-Hijr (Kawasan Berbatu)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",,015. Al-Hijr (Kawasan Berbatu)
 https://archive.org/download/MurotalMR/015.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",016. An-Nahl (Lebah)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",016. An-Nahl (Lebah)
 https://archive.org/download/MurotalMR/016.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",017. Al-Israa' (Perjalanan Malam)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",017. Al-Israa' (Perjalanan Malam)
 https://archive.org/download/MurotalMR/017.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",018. Al-Kahfi (Gua)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",018. Al-Kahfi (Gua)
 https://archive.org/download/MurotalMR/018.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",019. Maryam (Siti Maryam)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",019. Maryam (Siti Maryam)
 https://archive.org/download/MurotalMR/019.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",020. Taahaa
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",020. Taahaa
 https://archive.org/download/MurotalMR/020.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",021. Al-Anbiyaa' (Para Nabi)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",021. Al-Anbiyaa' (Para Nabi)
 https://archive.org/download/MurotalMR/021.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",022. Al-Hajj (Haji)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",022. Al-Hajj (Haji)
 https://archive.org/download/MurotalMR/022.mp3
-#EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.visionplus.id/images/repository/944/49944-SNAPSHOT-m.png",023. Al-Mu'minun (Golongan yang Beriman)
+#EXTINF:-1 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWs6yitK6PTq5tDo6yBslUdeBcTCYgLfo8aJGAzSrpqA&s=10",023. Al-Mu'minun (Golongan yang Beriman)
 https://archive.org/download/MurotalMR/023.mp3
 
 =========================================== ENTERTAINMENT ===========================================
