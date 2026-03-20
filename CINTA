@@ -6102,14 +6102,16 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 
 
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://thumbor.prod.vidiocdn.com/qWrg-PcfzEqD7aELRO9UAHkyMhk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-98d406.jpg" group-title="MotoGP", SPOTV 2 INDI
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a47994d99d44eeaba5e015a41dc3085:4aa9da8d82cb4edfc3f558857453d6ed
 https://cdn08jtedge.indihometv.com/dassdvr/130/beib2/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp2HOcdQifRFC5p9rFSuQE01wwv5EqxwzfTA&s" group-title="MotoGP ", SPOTV INDI
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593102163def4d25985baf7322d8a8dc:4d9def5cf7a8e57d71eea821e21d6580
 https://cdn08jtedge.indihometv.com/dassdvr/130/beib1/manifest.mpd
