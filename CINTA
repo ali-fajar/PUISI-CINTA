@@ -7746,12 +7746,15 @@ http://moo7-restream2025.ddns.net:9091/Sport_tv_ts4/index.m3u8
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts5/index.m3u8
 
 #EXTINF:-1  tvg-name="ASPORT" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",  group-title="SPORTS", A Sports HD
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1763947910&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4e7c828fc3ffe1b95e058620048b8fcc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://n1.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=7eIvQmy1Khb4_m-F4lPVcA&expires=1774312474
 
 #EXTINF:-1  tvg-logo="https://www.pngkey.com/png/detail/263-2631569_http-www-crikify-com-ten-cricket-live-ten.png" group-title="SPORTS", TEN CRICKET
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-#https://d6.merichunidya.com:1686/hls/tenspk.m3u8?md5=VZXVJMu3ini4ICdoDHHEbA&expires=1762885515
+https://n7.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=yErA6lRBEmLXMyEXFDVThw&expires=1774312474
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS",SONY SPORTS TEN 1 
@@ -7805,7 +7808,9 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xkekt61643389138.png" group-title="SPORTS",Star Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://tvsen5.aynascope.net/c9EpzZ6fQBJ3/index.m3u8?e=1763947936&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=7136cda59e0b7d4b5c4ac58f758565ee
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://n9.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=QFJCNOzG--rkaFe3FiNQ2A&expires=1774312473
 
 
 
