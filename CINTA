@@ -6161,6 +6161,13 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="MotoGP", Trans 7 Digital
 http://103.66.62.83:8000/play/a00u/index.m3u8
 
+#EXTINF:-1 group-title="MotoGP" tvg-logo="https://shorter.me/Xydc0" , FANCODE TV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
 
 #EXTINF:-1 group-title="MotoGP" tvg-id="TNTSports4.uk" tvg-logo="https://logoeps.com/wp-content/uploads/2013/03/motocross-world-championship-vector-logo.png",TNT SPORTS 4 UK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
