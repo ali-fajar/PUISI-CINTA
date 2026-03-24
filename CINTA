@@ -6604,6 +6604,19 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=bein3tr&type=m3u8
 #EXTVLCOPT:http-referrer=https://www.sporcafe6.xyz/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=bein4tr&type=m3u8
 
+
+#EXTINF:-1 tvg-id="cosmote 2" tvg-name="Cosmote 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/47sjz11630100858.png" group-title="SPORTS", COSMOTE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=cosmote2&type=m3u8
+
+#EXTINF:-1 tvg-id="cosmote 3" tvg-name="Cosmote 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/6l792t1630100876.png" group-title="SPORTS", COSMOTE 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=cosmote3&type=m3u8
+
+#EXTINF:-1 tvg-id="cosmote 4" tvg-name="Cosmote 4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fyiqh51630100896.png" group-title="SPORTS", COSMOTE 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bintangstreaming.my.id/connect/index.m3u8?channel=cosmote4&type=m3u8
+
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="SPORTS",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -7477,18 +7490,30 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=skygp&type=m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
 #https://nog-live1-ott.izzigo.tv/3/out/u/dash/SKYSPORTSHD/default.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=skyevent&type=m3u
+
+
+#EXTINF:-1 tvg-id="SkySportsFootballHD.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png" group-title="SPORTS", Sky SPORTS FOOTBALL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c88dc6c668cac3b468d4a4c7e176ff3d:1aeb739de2c14ed0ad658ca8043208d8
+#https://nog-live1-ott.izzigo.tv/2/out/u/dash/SKYSPORTS16HD/default.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=skyfootball&type=m3u8
+
 
 #EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-mix-vector-logo-2021.png" group-title="SPORTS", Sky SPORTS MIX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c393a1661a7a0c306ed4b2d3f8c7b7e:74583ae652f0ed1bed5fc713f577fe1e
 #https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/tjz3qplazr/out/v1/546e7eee67cd472fb34f53112df73144/cenc.mpd
+https://bintangstreaming.my.id/connect/index.m3u8?channel=skymix&type=m3u8
 
 #EXTINF:-1 tvg-id="SkySport pl" tvg-logo="https://www.nicepng.com/png/detail/213-2133982_sky-sports-logo-png.png" group-title="SPORTS", Sky SPORTS PL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca4316630f56d6f33e9ff73b7ad211d1:72c54e5646055f444e99bc1123919e89
 #https://a151aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/9o6jmlyjpm/out/v1/ad80a9bfecc6438f82f2af41c58d7fb8/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="Fussball" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m6qkm51712223494.png" group-title="SPORTS", FUSBALL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
