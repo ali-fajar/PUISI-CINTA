@@ -7046,11 +7046,20 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0d
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/wpWgysT/lequipelive1.png" group-title="SPORTS", L'Equipe Live 1
-https://d3awaj0f2u3w26.cloudfront.net/3/media.m3u8
+http://157.143.44.195/play/a0fw
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/RgnLvZt/lequipelive2.png" group-title="SPORTS", L'Equipe Live 2
-https://d2l55nvfkhk4sg.cloudfront.net/3/media.m3u8
+http://94.43.1.138:8081/setanta2/index.m3u8
 
+#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png" group-title="SPORTS", NOW 1HK
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4kmc941659623149.png" group-title="SPORTS", NOW 2HK
+https://eventcdn02-nowe.akamaized.net/hls/CH622/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ix8yxi1659623158.png" group-title="SPORTS", NOW 3HK
+https://eventcdn02-nowe.akamaized.net/hls/CH623/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Ktv sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi5k1C9ufH531IJYpz5uVdXAdT6L17SBBbkA&s", KTV SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -7090,30 +7099,19 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://laaaaaaaal.dupereasy.com/event/472.m3u8
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31801.m3u8
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=31801&extension=.m3u8
+http://77.46.130.252:99/maxsport1
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://laaaaaaaal.dupereasy.com/event/473.m3u8
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31802.m3u8
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=31802&extension=.m3u8
+http://77.46.130.252:99/maxsport2
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4j70fr1641505813.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://laaaaaaaal.dupereasy.com/event/474.m3u8
-#https://laaaaaaaal.dupereasy.com/slh/Y29NR1RBV1JTSGdwQTBvcEdZTUdjL1VxdnYwWUVaNjAxME1zSDFjQVE5aFF2VlFnNWFOdEN5cnpOdHpheUJzZTNMSjdIOFlQWUh1K2Y4UGcvaFFzU2d3cHVnPT0/master.m3u8
+http://77.46.130.252:99/maxsport3
 
 #EXTINF:0 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/o0kgrq1641505828.png" group-title="SPORTS" tvg-id="001" tvg-name="",  MAX SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://liveboxpro.com/
-#https://laaaaaaaal.dupereasy.com/event/475.m3u8
-#http://front-main.eagle-4k.me:80/live/a5n1qj2z7h/z7san35uxz/31804.m3u8
-#http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=31804&extension=.m3u8
+http://77.46.130.252:99/maxsport4
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/owa6og1571337802.png" group-title="SPORTS", NBA TV
@@ -7759,18 +7757,12 @@ https://n7.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=yErA6lRBEmLXMyEXFDVThw&exp
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SPORTS",SONY SPORTS TEN 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#https://tvsen5.aynascope.net/snTn1HD/index.m3u8?e=1763947934&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f0cc6492e4700ef6733d8cc0dcd1246c
-
+http://stvlive.net:8080/sonyten1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SPORTS",SONY SPORTS TEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://stvlive.net:8080/sonyten2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Sports_Ten_3.png" group-title="SPORTS",SONY SPORTS TEN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -7922,13 +7914,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 #EXTINF:-1 tvg-id="Ziggo Sport Docu" tvg-logo="https://iili.io/JpN1zwF.png" group-title="SPORTS", ZIGGO SPORT DOCU
-#http://filex.tv:8080//live/000003/000003/303689.m3u8
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2560/index.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Select" tvg-logo="https://iili.io/JpN1WPf.png" group-title="SPORTS", ZIGGO SPORT SELECT
-#http://filex.tv:8080//live/000003/000003/303693.m3u8
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
 
 #EXTINF:-1 tvg-id="Ziggo Sport Voetbal" tvg-logo="https://iili.io/JpNlDe1.png" group-title="SPORTS", ZIGGO SPORT VOETBAL
-#http://filex.tv:8080//live/000003/000003/303695.m3u8
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2559/index.m3u8
 
 =========================== PLUTO TV =============================================================
 
